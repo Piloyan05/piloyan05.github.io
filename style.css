@@ -126,6 +126,7 @@ body{
 @media screen and (max-width:640px){
     body{
         background-image: url(2.jpg);
+        background-size:640px 1300px;
         font-size: 20px;
     }
     .info{
